@@ -1,5 +1,6 @@
 # Mobile store architecture design 
-sql is used to store table and query from java code from the backend is used to provide implementation.
+oracle sql is used to store table and query from java code from the backend is used to provide implementation.
+Before sstarting the project make the tables in the oracle database, then start.
 
 
 # Packages
